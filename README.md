@@ -1,4 +1,4 @@
-![Логотип](https://raw.githubusercontent.com/TheGrandUtochka/grandeLatte/master/src/main/resources/templates/coffee-master/img/logo.png)
+![Логотип](https://raw.githubusercontent.com/TheGrandUtochka/grandeLatte/master/src/main/resources/static/coffee-master/img/logo.png)
 
 ## Описание проекта
 
